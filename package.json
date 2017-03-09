@@ -1,0 +1,19 @@
+{
+  "name": "memoized-decorator",
+  "version": "0.0.1",
+  "description": "Memoization decorator for immmutable functions. Uses ES6 WeakMap to avoid memory leaks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "memoize",
+    "decorator",
+    "weakmap"
+  ],
+  "author": "Andy Fiedler <andy@andyfiedler.com> (http://andyfiedler.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
